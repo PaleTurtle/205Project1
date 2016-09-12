@@ -63,3 +63,6 @@ for x in range(0, picWidth):
         finalImage[x,y] = (int(median(redPixList)), int(median(greenPixList)), int(median(bluePixList)))
 #Shows the final image
 finalPicture.show()
+
+#Github
+#https://github.com/PaleTurtle/205Project1
